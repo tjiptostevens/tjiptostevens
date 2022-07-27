@@ -4,9 +4,9 @@
 🌱 I’m currently learning <b>REACT, PYTHON. </b><br/>
 📫 How to reach me: <br/>
 <a href="https://www.hackerrank.com/tjiptostevens?hr_r=1" target="_blank">
-<img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="hackerrank" height="16px"/></a> 
+<img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="hackerrank" height="25px"/></a> 
 <a href="https://www.linkedin.com/in/tjiptostevens/" target="_blank">
-<img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" alt="Linkedin" height="16px"/></a>
+<img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" alt="Linkedin" height="25px"/></a>
 <!--
 **tjiptostevens/tjiptostevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
