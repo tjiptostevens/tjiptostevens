@@ -5,11 +5,11 @@
 <hr/>
 📫 How to reach me: <br/>
 <a href="https://www.hackerrank.com/tjiptostevens?hr_r=1" target="_blank">
-<img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="hackerrank" height="50px"/></a> 
+<img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="hackerrank" height="50px"style="border-radius: 3px; padding:3px"/></a> 
 <a href="https://www.linkedin.com/in/tjiptostevens/" target="_blank">
-<img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" alt="Linkedin" height="50px"/></a>
+<img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" alt="Linkedin" height="50px"style="border-radius: 3px; padding:3px"/></a>
 <a href="mailto:tjip@tjip.work" target="_blank">
-<img src="https://icons-for-free.com/iconfiles/png/512/high+quality+mail+media+social+social+media+square+icon-1320192616401317183.png" alt="mail" height="50px"/></a>
+<img src="https://icons-for-free.com/iconfiles/png/512/high+quality+mail+media+social+social+media+square+icon-1320192616401317183.png" alt="mail" height="50px" style="border-radius: 3px; padding:3px"/></a>
 
 <hr/>
 
