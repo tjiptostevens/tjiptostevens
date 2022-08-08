@@ -8,6 +8,10 @@
 <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="hackerrank" height="50px"/></a> 
 <a href="https://www.linkedin.com/in/tjiptostevens/" target="_blank">
 <img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" alt="Linkedin" height="50px"/></a>
+<a href="mailto:tjip@tjip.work" target="_blank">
+<img src="https://icons-for-free.com/iconfiles/png/512/high+quality+mail+media+social+social+media+square+icon-1320192616401317183.png" alt="mail" height="50px"/></a>
+
+<hr/>
 
 <p align="left">
 <a href="https://github.com/tjiptostevens">
