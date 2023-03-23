@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on <b> Private Project </b> <br/>
-🌱 I’m currently learning <b> REACT, NodeJs, PYTHON. </b><br/>
+🔭 I’m currently working on :<br/>
+- <b> React Project for Sekolah Musik Indonesia</b> <br/>
+- <b> Redesign Web Sekolah Musik Indonesia using Laravel</b> <br/>
+- <b> React Project for My Portofolio <a href="https://tjip.work">https://tjip.work</a></b> 
+<br/><br/>
+🌱 I’m currently learning <b> Angular 15, NodeJs, PYTHON. </b><br/>
 <hr/>
 📫 How to reach me: <br/>
 <a href="https://www.hackerrank.com/tjiptostevens?hr_r=1" target="_blank">
