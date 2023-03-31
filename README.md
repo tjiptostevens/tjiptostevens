@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on :<br/>
-- <b> React Project for Sekolah Musik Indonesia</b> <br/>
+- <b> Web Apps Project for Sekolah Musik Indonesia using React</b> <br/>
 - <b> Redesign Web Sekolah Musik Indonesia using Laravel</b> <br/>
 - <b> React Project for My Portofolio <a href="https://tjip.work">https://tjip.work</a></b> 
 <br/><br/>
