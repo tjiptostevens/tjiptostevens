@@ -6,7 +6,7 @@
 - <b> React Project for My Portofolio <a href="https://tjip.work">https://tjip.work</a></b> 
 <br/><br/>
 
-🌱 I’m currently learning <b> Angular 15,Typescript, NodeJs, Python. </b><br/>
+🌱 I’m currently learning <b> Typescript, NodeJs, Python. </b><br/>
 <hr/>
 📫 How to reach me: <br/>
 <a href="https://www.hackerrank.com/tjiptostevens?hr_r=1" target="_blank">
