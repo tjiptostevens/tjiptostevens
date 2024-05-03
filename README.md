@@ -3,7 +3,7 @@
 🔭 I’m currently working on :<br/>
 - <b> Web Apps Project for Sekolah Musik Indonesia using React</b> <br/>
 - <b> Redesign Web Sekolah Musik Indonesia using Laravel</b> <br/>
-- <b> React Project for My Portofolio <a target="_blank" href="https://tjip.work">https://tjip.work</a></b> <br/>
+- <b> React Project for My Portofolio <a target="_blank" href="https://tjip.my.id">https://tjip.my.id</a></b> <br/>
 - <b> React Project for Subur Rent Car <a target="_blank" href="https://sbrrentcar.com">https://sbrrentcar.com</a></b> <br/>
 - <b> React Project for Sebastian&Co Corp <a target="_blank" href="https://sebastianco.id">https://sebastianco.id</a></b> 
 <br/><br/>
