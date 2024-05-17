@@ -8,6 +8,8 @@
 - <b> React Project for Sebastian&Co Corp <a target="_blank" href="https://sebastianco.id">https://sebastianco.id</a></b> 
 <br/><br/>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a9632f83-9879-46af-9bd4-c17349b3bc46/deploy-status)](https://app.netlify.com/sites/aibmc/deploys)
+
 🌱 I’m currently learning <b> Typescript, NodeJs, Python. </b><br/>
 <hr/>
 📫 How to reach me: <br/>
