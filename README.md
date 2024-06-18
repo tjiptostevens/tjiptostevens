@@ -17,7 +17,7 @@
 <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="hackerrank" height="50px"/></a> 
 <a href="https://www.linkedin.com/in/tjiptostevens/" target="_blank">
 <img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" alt="Linkedin" height="50px"/></a>
-<a href="mailto:tjip@tjip.work" target="_blank">
+<a href="mailto:tjip@tjip.my.id" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png?20160314153722" alt="mail" height="50px" /></a>
 
 <hr/>
