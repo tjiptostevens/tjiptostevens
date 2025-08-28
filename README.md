@@ -1,24 +1,74 @@
-### Hi there 👋
+# Hi, I’m Tjipto Steven Senjaya 👋
 
-🔭 I’m currently working on :<br/>
-- <b> Web Apps Project for Sekolah Musik Indonesia using React</b> <br/>
-- <b> Redesign Web Sekolah Musik Indonesia using Laravel</b> <br/>
-- <b> React Project for My Portofolio <a target="_blank" href="https://tjip.my.id">https://tjip.my.id</a></b> <br/>
-- <b> React Project for Subur Rent Car <a target="_blank" href="https://sbrrentcar.com">https://sbrrentcar.com</a></b> <br/>
-- <b> React Project for Sebastian&Co Corp <a target="_blank" href="https://sebastianco.id">https://sebastianco.id</a></b> 
-<br/><br/>
+Welcome to my GitHub!
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a9632f83-9879-46af-9bd4-c17349b3bc46/deploy-status)](https://app.netlify.com/sites/aibmc/deploys)
+I'm a **Professional Problem Solver** and IT Manager with 6+ years of experience in software development, infrastructure, and digital transformation.  
+Passionate about technology, creative solutions, and making a meaningful impact.
 
-🌱 I’m currently learning <b> Typescript, NodeJs, Python. </b><br/>
-<hr/>
-📫 How to reach me: <br/>
-<a href="https://www.hackerrank.com/tjiptostevens?hr_r=1" target="_blank">
-<img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="hackerrank" height="50px"/></a> 
-<a href="https://www.linkedin.com/in/tjiptostevens/" target="_blank">
-<img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" alt="Linkedin" height="50px"/></a>
-<a href="mailto:hello@tjip.my.id" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png?20160314153722" alt="mail" height="50px" /></a>
+---
+
+## 🚀 About Me
+
+- **Location:** Semarang, Central Java, Indonesia
+- **Current Roles:**
+  - IT Manager @ Pt Sinergi Mandiricipta Indonesia
+  - IT Manager @ Sekolah Musik Indonesia
+  - Freelance Full-stack Developer @ Tjip Dev Work
+- **Background:** Graphic Design, Software Development, Multimedia
+
+---
+
+## 💡 Skills
+
+- **Languages:** JavaScript, Python, PHP, HTML, CSS
+- **Frameworks & Tools:** React.js, AWS, ERP Systems, Cloud & On-Premise Servers
+- **Other:** Infrastructure, Data Security, UX/UI, Team Leadership
+
+---
+
+## 🏆 Achievements
+
+- Built & deployed ERP and SMI Information Systems, training 50+ users
+- Developed microSaaS solutions to streamline workflows
+- Designed & launched company websites, boosting online presence
+- Led Digital Image Production, grew YouTube channel from 0 → 20k subscribers
+- Head of Multimedia Technology Class: restructured department, developed hybrid music tech
+- Managed IT infrastructure across multiple locations for reliability & security
+- Led a 30-person music department in a local church organization
+
+---
+
+## 🎓 Education & Certifications
+
+- **STMIK Provisi IT College** – Sarjana Teknik Informatika
+- AWS Academy Cloud Foundations
+- 5 Day MBA, RevoU Data Analytics, Gojek Digital Entrepreneurship
+- Various finance & business management courses
+
+---
+
+## 🌱 Personal Values
+
+> Honesty | Creativity | Continuous Learning | Futuristic Thinking | Leadership
+
+---
+
+## 📫 Connect with Me
+
+- 📱 +6287832340390
+- ✉️ [steveneonites@gmail.com](mailto:steveneonites@gmail.com)
+- 🌐 [tjip.my.id](https://tjip.my.id)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tjiptostevens)
+
+---
+
+### ⚡ Fun Fact
+
+I’m also a musician and enjoy leading creative teams to make awesome things—whether it's great code, music, or designs!
+
+---
+
+## 📊 My GitHub Stats
 
 <hr/>
 
@@ -28,16 +78,3 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjiptostevens&layout=compact"/>
 </a>
 </p>
-
-<!--
-**tjiptostevens/tjiptostevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
