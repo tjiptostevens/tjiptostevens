@@ -98,9 +98,3 @@ I’m also a musician and enjoy leading creative teams to make awesome things—
 <!-- Visitor Counter Badge -->
 ![](https://komarev.com/ghpvc/?username=tjiptostevens&label=PROFILE+VIEWS)
 
-<!-- GitHub Profile Trophy -->
-![trophy](https://github-profile-trophy.vercel.app/?username=tjiptostevens&theme=onestar&margin-w=10)
-
-<!-- Contribution Streak Badge -->
-![GitHub Streak](https://streak-stats.demolab.com?user=tjiptostevens&theme=radical)
-
