@@ -78,3 +78,29 @@ I’m also a musician and enjoy leading creative teams to make awesome things—
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjiptostevens&layout=compact"/>
 </a>
 </p>
+
+## 🚩 Badges
+
+<!-- Social & Contact Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tjiptostevens)
+[![Email](https://img.shields.io/badge/Gmail-steveneonites@gmail.com-red?logo=gmail)](mailto:steveneonites@gmail.com)
+[![Website](https://img.shields.io/badge/Website-tjip.my.id-informational?logo=internet-explorer)](https://tjip.my.id)
+
+<!-- Tech Stack Badges -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+<!-- Visitor Counter Badge -->
+![](https://komarev.com/ghpvc/?username=tjiptostevens&label=PROFILE+VIEWS)
+
+<!-- GitHub Profile Trophy -->
+![trophy](https://github-profile-trophy.vercel.app/?username=tjiptostevens&theme=onestar&margin-w=10)
+
+<!-- Contribution Streak Badge -->
+![GitHub Streak](https://streak-stats.demolab.com?user=tjiptostevens&theme=radical)
+
