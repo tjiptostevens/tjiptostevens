@@ -56,7 +56,7 @@ Passionate about technology, creative solutions, and making a meaningful impact.
 ## 📫 Connect with Me
 
 - 📱 +6287832340390
-- ✉️ [steveneonites@gmail.com](mailto:steveneonites@gmail.com)
+- ✉️ [hello@tjip.my.id](mailto:hello@tjip.my.id)
 - 🌐 [tjip.my.id](https://tjip.my.id)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tjiptostevens)
 
@@ -83,7 +83,7 @@ I’m also a musician and enjoy leading creative teams to make awesome things—
 
 <!-- Social & Contact Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tjiptostevens)
-[![Email](https://img.shields.io/badge/Gmail-steveneonites@gmail.com-red?logo=gmail)](mailto:steveneonites@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-hello@tjip.my.id-red?logo=gmail)](mailto:hello@tjip.my.id)
 [![Website](https://img.shields.io/badge/Website-tjip.my.id-informational?logo=internet-explorer)](https://tjip.my.id)
 
 <!-- Tech Stack Badges -->
