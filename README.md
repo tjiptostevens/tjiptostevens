@@ -12,8 +12,8 @@ Passionate about technology, creative solutions, and making a meaningful impact.
 - **Location:** Semarang, Central Java, Indonesia
 - **Current Roles:**
   - IT Manager @ Pt Sinergi Mandiricipta Indonesia
-  - IT Manager @ Sekolah Musik Indonesia
-  - Freelance Full-stack Developer @ Tjip Dev Work
+  - Founder @ Tjip Dev Work
+  - Founder @ Alfa Koding
 - **Background:** Graphic Design, Software Development, Multimedia
 
 ---
@@ -21,7 +21,7 @@ Passionate about technology, creative solutions, and making a meaningful impact.
 ## 💡 Skills
 
 - **Languages:** JavaScript, Python, PHP, HTML, CSS
-- **Frameworks & Tools:** React.js, AWS, ERP Systems, Cloud & On-Premise Servers
+- **Frameworks & Tools:** React.js, Laravel, Node.js, AWS, ERP Systems, Cloud & On-Premise Servers
 - **Other:** Infrastructure, Data Security, UX/UI, Team Leadership
 
 ---
@@ -58,6 +58,7 @@ Passionate about technology, creative solutions, and making a meaningful impact.
 - 📱 +6287832340390
 - ✉️ [hello@tjip.my.id](mailto:hello@tjip.my.id)
 - 🌐 [tjip.my.id](https://tjip.my.id)
+- 🌐 [alfakoding.com](https://alfakoding.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tjiptostevens)
 
 ---
@@ -85,6 +86,7 @@ I’m also a musician and enjoy leading creative teams to make awesome things—
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tjiptostevens)
 [![Email](https://img.shields.io/badge/Gmail-hello@tjip.my.id-red?logo=gmail)](mailto:hello@tjip.my.id)
 [![Website](https://img.shields.io/badge/Website-tjip.my.id-informational?logo=internet-explorer)](https://tjip.my.id)
+[![Website](https://img.shields.io/badge/Website-alfakoding.com-informational?logo=internet-explorer)](https://alfakoding.com)
 
 <!-- Tech Stack Badges -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
