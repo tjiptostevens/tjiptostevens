@@ -11,7 +11,7 @@ Passionate about technology, creative solutions, and making a meaningful impact.
 
 - **Location:** Semarang, Central Java, Indonesia
 - **Current Roles:**
-  - IT Manager @ Pt Sinergi Mandiricipta Indonesia
+  - Owner @ Pt Ayo Cipta Senjaya
   - Founder @ Tjip Dev Work
   - Founder @ Alfa Koding
 - **Background:** Graphic Design, Software Development, Multimedia
